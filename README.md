@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Masha. 
+### <h1>Hi there 👋 I'm Masha Pupulewatte</h1> 
+- 🎓 I'm an undergraduate
 - 👩‍💻 I'm currently focusing on improving my development skills
 - 📫 How to reach me: mashanilushi@gmail.com
 
