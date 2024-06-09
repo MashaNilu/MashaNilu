@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋 I'm Masha Pupulewatte</h1> 
 - 🎓 I'm an undergraduate
 - 👩‍💻 I'm currently focusing on improving my development skills
-- 📫 How to reach me: mashanilushi@gmail.com
+- 📫 How to reach me: mashanilushi@gmail.com, linkedin.com/in/masha-pupulewatte
 
 <!--
 **MashaNilu/MashaNilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
